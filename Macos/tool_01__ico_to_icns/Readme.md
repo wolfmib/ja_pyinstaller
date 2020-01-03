@@ -14,7 +14,7 @@ This is demo video.
 [![Add Demo in the img folder](img/demo.mp4)](img)
 
 test_01
-<video src="img/demo.mp4" width="320" height="200" controls preload></video>
+<video src="Macos/tool_01__ico_to_icns/img/demo.mp4" width="320" height="200" autoplay="autoplay"></video>
 
 test_02
 <video src="demo.mp4" width="320" height="200" controls preload></video>
