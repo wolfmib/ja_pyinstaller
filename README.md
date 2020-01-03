@@ -6,12 +6,9 @@ pyinstaller compile example
 
 ---
 
-![](demo.mp4)
-
-
-test_02
-<video src="demo.mp4" width="320" height="200" autoplay="autoplay" ></video>
-
+-Macos
+    - lab_01_pyinstaller_with_icon
+    - tool_01_ico_to_icns
 
 ---
 
